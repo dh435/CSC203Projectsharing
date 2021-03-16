@@ -1,3 +1,3 @@
-# CSC203Projectsharing
+# CSC203Projectsharing - David H.
 Share your projects and have fun playing other peoples
-I would suggest putting your name on the project so people can tell each one apart
+
